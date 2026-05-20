@@ -69,4 +69,4 @@ This repository does NOT support illegal activities.
 
 ## Author
 
-GitHub Research Repository
+Kratos
